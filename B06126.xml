@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most excellent Majestie the hvmble petition of the knights, gentlemen, and freeholders of the county of York. With their humble request to His Maiesty for the removing of unruly souldiers billited in the said county. Whereunto is annexed a copy of a writing which hath beene lately disperst amongst the Catholikes in England, by Sir Iohn Winter ... touching and concerning a contribution of money towards His Majesties supply of his Army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06126</idno>
+            <idno type="STC">Wing T1540A</idno>
+            <idno type="STC">ESTC R185319</idno>
+            <idno type="EEBO-CITATION">53299319</idno>
+            <idno type="OCLC">ocm 53299319</idno>
+            <idno type="VID">180046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180046)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2811:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most excellent Majestie the hvmble petition of the knights, gentlemen, and freeholders of the county of York. With their humble request to His Maiesty for the removing of unruly souldiers billited in the said county. Whereunto is annexed a copy of a writing which hath beene lately disperst amongst the Catholikes in England, by Sir Iohn Winter ... touching and concerning a contribution of money towards His Majesties supply of his Army.</title>
+                  <author>Winter, John, Sir, 1600?-1673?</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Hanson,</publisher>
+                  <pubPlace>London</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Conduct of life --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  Politics and government --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180046:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 84 -->
+            <p>TO THE KINGS Moſt Excellent MAJESTIE THE HVMBLE PETITION of the Knights, Gentlemen, and Freehol<g ref="char:EOLhyphen"/>ders of the County of <hi>York.</hi>
+            </p>
+            <p>With their Humble Requeſt to His Ma<g ref="char:EOLhyphen"/>ieſty for the removing of unruly Souldiers billited in the ſaid County.</p>
+            <p>Whereunto is annexed A Copy of a Writing which hath beene lately diſperſt amongſt the Catholikes in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by Sir <hi>Iohn Winter,</hi> Her Maieſties prin<g ref="char:EOLhyphen"/>cipall Secretary and Maſter of Requeſts, touching and concerning a contribution of Money towards his Majeſties ſupply of his Army.</p>
+            <p>Novemb. 25.</p>
+            <p>
+               <hi>London,</hi> Printed for JOHN Hanſon. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:180046:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:180046:2"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:180046:3"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:180046:3"/>
+            <!-- PDF PAGE 86 -->
+            <head>
+               <hi>To the Kings moſt Excellent Majeſty.</hi> A Copy of an humble Petition preſented to his Majeſty at <hi>Colebrooke,</hi> from the knights<g ref="char:punc">▪</g> Gentlemen, and Free-holders of the ſame County of York, with their humble re<g ref="char:EOLhyphen"/>queſt to his Majeſty for the removing of unruly Souldiers, billetted in their ſaid County.</head>
+            <opener>
+               <salute>MAy it pleaſe Your moſt Excellent Majeſty,</salute>
+            </opener>
+            <p>your moſt humble Sub<g ref="char:EOLhyphen"/>jects ſhew unto Your moſt ſacred Maie<g ref="char:EOLhyphen"/>ſty, that in all humility this County both endeavoured to fulfill your Maie<g ref="char:EOLhyphen"/>ſties command, with the forwardeſt of your Maieſtyes Subiects in the executions of your Maieſtyes royall commands a<g ref="char:EOLhyphen"/>bout the military affayres, have expen<g ref="char:EOLhyphen"/>ded an hundred thouſand pounds to our great impoveriſhment, and far above the proportion of other Countyes, which al<g ref="char:EOLhyphen"/>though
+<pb facs="tcp:180046:4"/>
+               <!-- PDF PAGE 87 -->wee have beene willing to ſerve your Maieſty, yet for the future, the bur<g ref="char:EOLhyphen"/>then is ſo heavy that we cannot nor are able to forbeare, now upon this our cheerfulneſſe to ſerve your Majeſty, we hoped to have found equal favour with the other Counties.</p>
+            <p>But ſo it is moſt gracious Soveraigne to our great greife, as we conceive your Maieſties intentions are wholly againſt the Parliament to the great diſſervice of your Maieſty, we finde our ſelves op<g ref="char:EOLhyphen"/>preſſed with the billetting of unruly Souldiers, whoſe ſpeeches and actions ten<g ref="char:EOLhyphen"/>ding to burning of our villages, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hou<g ref="char:EOLhyphen"/>ſes, and to whoſe inſolencyes and villa<g ref="char:EOLhyphen"/>nyes we are ſo dayly ſubject, as we can<g ref="char:EOLhyphen"/>not ſay, we poſſeſſe our wives and chil<g ref="char:EOLhyphen"/>dren and eſtates in ſafety, wherefore wee are emboldened humbly to preſent this our complaint, beſeeching that as the bil<g ref="char:EOLhyphen"/>letting of Souldiers in any of your Sub<g ref="char:EOLhyphen"/>jects houſes againſt their will, is contra<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:180046:4"/>
+               <!-- PDF PAGE 87 -->to the ancient laws of this Kingdom, confirmed by your Maieſty in the Peti<g ref="char:EOLhyphen"/>tion of right.</p>
+            <p>We moſt humbly deſire your moſt ſacred Maieſty, that this inſupportable burthen may bee taken from us, leaſt by their inſolencies ſome bad accident may happen, as will bee much diſpleaſing to your ſacred Maieſty, and your moſt loy<g ref="char:EOLhyphen"/>al Subiects will never ceaſe to pray for your Maieſties happy raigne.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Phillip Wharton.</item>
+                     <item>Thomas Gower.</item>
+                     <item>Richard Raniugton.</item>
+                     <item>Thomas Heblewayte.</item>
+                     <item>Peregrine Stapleton.</item>
+                     <item>William Sheffield.</item>
+                     <item>John Ramſden.</item>
+                     <item>Jngram Hopten.</item>
+                     <item>George Freby.</item>
+                     <item>Henry Fairefaz.</item>
+                     <item>John Hotham.</item>
+                     <item>William Franckland.</item>
+                     <item>Chriſtopher Percy.</item>
+                     <item>Edmond Stanhop.</item>
+                     <item>Richard Darly.</item>
+                     <item>Hugh Bethell.</item>
+                     <item>Abraham Anderſon.</item>
+                     <item>George Moorewood.</item>
+                     <item>
+                        <pb facs="tcp:180046:5"/>
+                        <!-- PDF PAGE 88 -->
+Thomas Hiſhith.</item>
+                     <item>William Stricklaud.</item>
+                     <item>George Wentworth.</item>
+                     <item>Thomas Leger.</item>
+                     <item>John Fowleſhy.</item>
+                     <item>Hugh Cholmly.</item>
+                     <item>John Anſuby.</item>
+                     <item>John Stappleton.</item>
+                     <item>Thomas Connington.</item>
+                     <item>Will. Morlesby.</item>
+                     <item>George Butler.</item>
+                     <item>George Crotter.</item>
+                  </list> 
+Cum multis aliis.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:180046:5"/>
+            <!-- PDF PAGE 88 -->
+            <head>A Copie of a Writing which hath bin lately diſperſt amongſt the Catholikes in <hi>England,</hi> by Sir <hi>John Winter,</hi> Knight, Her Majeſties principall Secretary and Maſter of Requeſts, touching and concerning a con<g ref="char:EOLhyphen"/>tribution of money towards His Majeſties ſupply of His Army.</head>
+            <opener>
+               <salute>BY Her Majeſties Command to the Catholiks in England, Greeting,</salute>
+            </opener>
+            <p>We have ſo good a be<g ref="char:EOLhyphen"/>liefe of the loyalty and affection of His Majeſties Subiects, as we doubt not but upon this occaſion for the defence of His Maieſties Honour and Do<g ref="char:EOLhyphen"/>minions, you will expreſſe your ſelves ſo affected as her Highneſſe hath alwayes repreſented your Obedience to His Maieſty, ſo in this common conſent which hath appeared in the Nobility, the Judges, Gentry and others, to forward His Maie<g ref="char:EOLhyphen"/>ſties ſervice by their perſons and eſtates, her Ma<g ref="char:EOLhyphen"/>jeſty hath made no difficulty to anſwer for the ſame correſpondencie in his Catholike Subjects, notwithſtanding they have already concurred to His Majeſties ſervice, according to the qualities and values of each ſeverall Gentlemans eſtate: Therefore having already by other meanes re<g ref="char:EOLhyphen"/>commended to Her Majeſty this earneſt deſire of yours, to aſſiſt and ſerve His Majeſty by ſome conſiderable ſumme of money, Her Majeſty free<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:180046:6"/>
+               <!-- PDF PAGE 89 -->and cheerefully preſented, her Maieſty hath thought fit, to the end that this her deſire may be the more publike, and the more authorized, here<g ref="char:EOLhyphen"/>by, commanding me to give you Commiſſion and Direction to diſtribute Copies under hand of this Teſtification thereof unto thoſe that have met at London by Her Majeſties direction about this buſineſſe, and unto the ſeverall Collecters of eve<g ref="char:EOLhyphen"/>ry County, and as her Majeſty preſumes the ſum that ſhall be raiſed will not bee unworthy our preſenting to the King, ſo will Her Maieſty bee very ſencible of that, as a particular favour to her Majeſty in the moſt efficacious manner her Maie<g ref="char:EOLhyphen"/>ſtie can, to improve the merit of it, to remove any apprehenſion of prejudice to any who ſhall im<g ref="char:EOLhyphen"/>ploy themſelves towards the ſucceſſe of this buſi<g ref="char:EOLhyphen"/>neſſe, by this they may be aſſured, that Her Maie<g ref="char:EOLhyphen"/>ſty will ſecure them from all objected inconveni<g ref="char:EOLhyphen"/>encies. And Her Majeſty is very confident, that Her Majeſties firſt recommendation will bee ſo complyed withall, as that it may not onely afford Her Majeſty her particular ſatisfaction, but alſo facilitation towards their owne advantages.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180046:6"/>
+            <!-- PDF PAGE 89 -->
+         </div>
+      </body>
+   </text>
+</TEI>
